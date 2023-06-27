@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-The Learn Python Repository
+0x05-python-exceptions
